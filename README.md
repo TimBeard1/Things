@@ -1,6 +1,1 @@
-Things
-======
-
-Stuff
-HELLO
-
+Things, and stuff, and junk
